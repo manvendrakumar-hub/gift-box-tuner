@@ -14,7 +14,7 @@ No build. No dependencies. No server. **Open `index.html` and drag sliders.**
 - Sliders/toggles for: **amplitude**, **period**, **motion curve** (sine / hang / linear), **mode** (float around centre vs. rise-from-base), start phase, scale, X/Y position, optional ground shadow, background gradient.
 - **💾 Save config** → `gift-box-config.json`; **⧉ Copy** to clipboard.
 
-▶︎ **Live demo:** enable GitHub Pages → `https://<user>.github.io/gift-box-tuner/`
+▶︎ **Live demo:** enable GitHub Pages → `https://manvendrakumar-hub.github.io/gift-box-tuner/`
 
 ---
 
