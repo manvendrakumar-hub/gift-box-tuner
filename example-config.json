@@ -1,0 +1,41 @@
+{
+  "canvas": {
+    "w": 540,
+    "h": 706,
+    "fps": 60
+  },
+  "animation": "gift-box-bob",
+  "bob": {
+    "direction": "up-down",
+    "mode": "centre",
+    "amplitudePx": 22,
+    "periodSec": 1.1,
+    "curve": "sine",
+    "startPhasePct": 0,
+    "loop": true
+  },
+  "gift": {
+    "source": "Figma 'Gift Box' (1:1484)",
+    "scalePct": 130,
+    "baseX": 270,
+    "baseY": 200,
+    "aspect": 1.026
+  },
+  "shadow": {
+    "enabled": false,
+    "strengthPct": 35
+  },
+  "background": {
+    "show": true,
+    "type": "linear-gradient",
+    "angleDeg": 59.3,
+    "stops": [
+      { "color": "#023a9b", "pos": 19.973 },
+      { "color": "#386bc6", "pos": 70.37 }
+    ]
+  },
+  "playback": {
+    "speed": 0.45
+  },
+  "savedAt": "2026-06-12T10:56:34.686Z"
+}
